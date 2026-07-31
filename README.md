@@ -54,4 +54,6 @@ cargo run --release
 
 https://github.com/HipWilson/conway-game-of-life
 
+## Funcionamiento
+
 ![demo](demostracion.gif)
