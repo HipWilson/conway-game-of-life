@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/build/cmake_install.cmake",
+		"C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/build/raylib/cmake_install.cmake",
+		"C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/build/raylib/external/glfw/cmake_install.cmake",
+		"C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/build/raylib/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

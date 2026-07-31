@@ -1,0 +1,10 @@
+^C:\USERS\WILSO\DOWNLOADS\CONWAY-GAME-OF-LIFE\CONWAY-GAME-OF-LIFE\TARGET\RELEASE\BUILD\RAYLIB-SYS-3B63CF14D1D160A7\OUT\BUILD\CMAKEFILES\934C20BFA01F7839E28D59BC9AD86629\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

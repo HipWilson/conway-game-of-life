@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wilso\Downloads\conway-game-of-life\conway-game-of-life\target\release\build\raylib-sys-3b63cf14d1d160a7\out\build\CMakeFiles\32403bc7ec3e5a1de4140c4bf7c0a1a2\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{74E1182E-D6B3-3079-B4E4-68B44C4D144F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

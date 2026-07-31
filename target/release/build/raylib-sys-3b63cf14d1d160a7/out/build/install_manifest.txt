@@ -1,0 +1,7 @@
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/lib/raylib.lib
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/include/raylib.h
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/include/rlgl.h
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/include/raymath.h
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/lib/pkgconfig/raylib.pc
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/lib/cmake/raylib/raylib-config.cmake

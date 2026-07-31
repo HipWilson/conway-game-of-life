@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\wilso\Downloads\conway-game-of-life\conway-game-of-life\target\release\build\raylib-sys-3b63cf14d1d160a7\out\build\CMakeFiles\2aecf1c104fb876bdd08b0e3ac0acea8\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\wilso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-5.5.1\raylib\src\external\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\wilso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-5.5.1\raylib\src\external\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="C:\Users\wilso\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-5.5.1\raylib\src\external\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="C:\Users\wilso\Downloads\conway-game-of-life\conway-game-of-life\target\release\build\raylib-sys-3b63cf14d1d160a7\out\build\raylib\external\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{74E1182E-D6B3-3079-B4E4-68B44C4D144F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{342224A3-B8FE-3EB5-BE25-8DCAC73C1640}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

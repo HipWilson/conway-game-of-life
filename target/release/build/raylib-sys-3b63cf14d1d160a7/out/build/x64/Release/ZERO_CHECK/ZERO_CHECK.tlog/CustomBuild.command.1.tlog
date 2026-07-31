@@ -1,0 +1,10 @@
+^C:\USERS\WILSO\DOWNLOADS\CONWAY-GAME-OF-LIFE\CONWAY-GAME-OF-LIFE\TARGET\RELEASE\BUILD\RAYLIB-SYS-3B63CF14D1D160A7\OUT\BUILD\CMAKEFILES\934C20BFA01F7839E28D59BC9AD86629\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/wilso/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/raylib-sys-5.5.1/raylib -BC:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/wilso/Downloads/conway-game-of-life/conway-game-of-life/target/release/build/raylib-sys-3b63cf14d1d160a7/out/build/raylib.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
